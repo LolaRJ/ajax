@@ -1,5 +1,5 @@
 $(document).ready(function() {
-    const username = "ogiansouza"; // Usuário do GitHub que deseja buscar
+    const username = "LolaRJ"; // Usuário do GitHub que deseja buscar
     const endpoint = `https://api.github.com/users/${username}`;
 
     $.ajax({
